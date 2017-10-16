@@ -4,4 +4,5 @@ Background: Food waste is a common problem. In Switzerland, the average househol
 
 The goal of Ingrid is to extract ingredients from recipes into a checklist in order to simplify the process of getting missing ingredients. The ultimate use case would be an integration of Ingrid to local food delivery services.
 
-[[https://github.com/yaw89/ingrid/blob/master/Workflow.png|alt=octocat]]
+![alt text](https://github.com/yaw89/ingrid/blob/master/Workflow.png)
+
