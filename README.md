@@ -1,4 +1,6 @@
-# ingrid
+# Ingrid
+
+## Project Description
 
 Background: Food waste is a common problem in developed economies. In Switzerland, the average household throws away about 30 percent of still edible food. Creating a food plan and buying only food for what you want to cook may reduce the amount of wasted food drastically.  
 
