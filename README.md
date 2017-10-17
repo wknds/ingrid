@@ -8,6 +8,6 @@ The goal of Ingrid is to extract ingredients from recipes into a checklist in or
 
 ## Text Recognition
 
-Use existing libraries (free or under GPL, Apache, etc.) for optical character recognition and image preprocessing (if not done by OCR). 
+Use existing libraries (free or under GPL, Apache, etc.) for optical character recognition and image preprocessing (if not done by OCR). See https://en.wikipedia.org/wiki/Comparison_of_optical_character_recognition_software
 
 ![alt text](https://github.com/yaw89/ingrid/blob/master/textrecognition_workflow.png)
