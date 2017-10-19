@@ -13,3 +13,9 @@ The goal of Ingrid is to extract ingredients from recipes into a checklist in or
 Use existing libraries (free or under GPL, Apache, etc.) for optical character recognition and image preprocessing (if not done by OCR). See https://en.wikipedia.org/wiki/Comparison_of_optical_character_recognition_software
 
 ![alt text](https://github.com/yaw89/ingrid/blob/master/textrecognition_workflow.png)
+
+### Tesseract
+
+Added Tess4J (Java library) to the build path and start doing some text recognition from some pictures taken by my smartphone.
+
+* [Input Picture](https://github.com/yaw89/ingrid/blob/master/backend/resources/raw_images/ausbau_nordumfahrung_a1.jpg) [Output](https://github.com/yaw89/ingrid/blob/master/backend/resources/output/ausbau_nordumfahrung_a1.txt)
