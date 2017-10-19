@@ -16,6 +16,6 @@ Use existing libraries (free or under GPL, Apache, etc.) for optical character r
 
 ### Tesseract
 
-Added Tess4J (Java library) to the build path and start doing some text recognition from some pictures taken by my smartphone.
+Added Tess4J (Java library) to the build path and start doing some text recognition from some pictures taken by my smartphone. Used following configuration: language (eng) 
 
-* [Input Picture](https://github.com/yaw89/ingrid/blob/master/backend/resources/raw_images/ausbau_nordumfahrung_a1.jpg) [Output](https://github.com/yaw89/ingrid/blob/master/backend/resources/output/ausbau_nordumfahrung_a1.txt)
+* [[Input Picture]](https://github.com/yaw89/ingrid/blob/master/backend/resources/raw_images/ausbau_nordumfahrung_a1.jpg) [[Output]](https://github.com/yaw89/ingrid/blob/master/backend/resources/output/ausbau_nordumfahrung_a1.txt)
