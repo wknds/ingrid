@@ -13,7 +13,7 @@ import net.sourceforge.tess4j.TesseractException;
 public class TesseractExample {
 
 	public static void main(String[] args) {
-		String inputFileName = "ausbau_nordumfahrung_a1";
+		String inputFileName = "penne_rezept";
 		File imageFile = new File("resources/raw_images/" + inputFileName + ".jpg");
 		ITesseract instance = new Tesseract();
 		instance.setDatapath("/home/yaw/Projects/ingrid/backend/libs/Tess4J");
