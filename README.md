@@ -22,4 +22,7 @@ Added Tess4J (Java library) to the build path and start doing some text recognit
 * Recipe for penne [[Input picture]](https://github.com/yaw89/ingrid/blob/master/backend/resources/raw_images/penne_rezept.jpg) [[Output text]](https://github.com/yaw89/ingrid/blob/master/backend/resources/output/penne_rezept.txt)
 * USA strategy paper for Near East and South Asia (1983) [[Input picture]](https://github.com/yaw89/ingrid/blob/master/backend/resources/raw_images/usa_strategy_sea_1983.tif) [[Output text]](https://github.com/yaw89/ingrid/blob/master/backend/resources/output/usa_strategy_sea_1983.txt)
 
-The recognition of the strategy paper (8.2 MB, TIFF, English) was remarkably faster compared to the traffic bypass and recipe (~2 MB, JPG, German). 
+The recognition of the strategy paper (8.2 MB, TIFF, English) was remarkably faster compared to the traffic bypass and recipe (~2 MB, JPG, German).
+
+## Setup Environment
+* Installing OpenCV for Java: http://opencv-java-tutorials.readthedocs.io/en/latest/01-installing-opencv-for-java.html
